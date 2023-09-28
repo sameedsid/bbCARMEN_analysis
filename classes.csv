@@ -1,0 +1,14 @@
+class,classname
+HNN,SARS-CoV-2
+HNV,HCoV_HKU1
+NML,HCoV_NL63
+MNL,BetaCoV
+NHL,HPIV3
+NHV,FluA
+MMN,FluB
+HVV,HMPV
+HVN,HRSV
+NNH,RNaseP
+NHN,Scrambled 1
+MLV,Scrambled 2
+NULL,NULL
